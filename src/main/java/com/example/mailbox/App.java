@@ -14,7 +14,7 @@ public class App
     }
 
     public void setUsername(String username){
-        this.username = username;
+        this.username = username.length();
     }
 
     public String getUsername() {
