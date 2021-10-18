@@ -10,6 +10,7 @@ This project is a dummy mailbox project made to practice
  Tools used
  - JUnit
  - Maven
+ - Git
  
  ## Git Hooks
  1 A precommit hook was set up
